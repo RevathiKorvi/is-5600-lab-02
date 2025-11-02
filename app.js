@@ -108,4 +108,3 @@ function viewStock(symbol, stocks){
 
 }
 });
-
